@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @louiseleighhh
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me @louiseleighhh
+# 👋 Hi, I’m Leigh
+I am a Fullstack Web Developer living in Tokyo. 
 
 <!---
 louiseleighhh/louiseleighhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
