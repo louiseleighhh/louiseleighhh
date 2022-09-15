@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Leigh
 I am a Fullstack Web Developer living in Tokyo. 
-<div id="view-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=jess-nash&style=flat-square&color=blue" alt=""/>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiseleighhh&layout=compact&theme=radical)](https://github.com/louiseleighhh/github-readme-stats)
 
@@ -53,6 +50,9 @@ I am a Fullstack Web Developer living in Tokyo.
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
+<div id="view-counter">
+  <img src="https://komarev.com/ghpvc/?username=jess-nash&style=flat-square&color=blue" alt=""/>
+</div>
 <!---
 louiseleighhh/louiseleighhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
