@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Leigh
 I am a Fullstack Web Developer living in Tokyo. 
+<div id="view-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=jess-nash&style=flat-square&color=blue" alt=""/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiseleighhh&layout=compact&theme=radical)](https://github.com/louiseleighhh/github-readme-stats)
 
